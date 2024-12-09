@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "sssss",
+      "email": "ahmed@gmail.com",
+      "role": "editor",
+      "status": "inactive"
+    },
+    {
+      "id": "3",
+      "name": "sara",
+      "email": "sara@gmail.com",
+      "role": "viewer",
+      "status": "active"
+    },
+    {
+      "id": "4",
+      "name": "lina",
+      "email": "lina@gmail.com",
+      "role": "editor",
+      "status": "active"
+    },
+    {
+      "id": "5",
+      "name": "omar",
+      "email": "omar@gmail.com",
+      "role": "viewer",
+      "status": "inactive"
+    },
+    {
+      "id": "6",
+      "name": "ali",
+      "email": "ali@gmail.com",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "id": "0bad",
+      "role": "admin",
+      "name": "rr",
+      "email": "fathimaththasnee@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "966b",
+      "role": "viewer",
+      "name": "aaaaa",
+      "email": "fathimaththasnee@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "c40e",
+      "name": "aaaaaaaa",
+      "email": "a@gmail.com",
+      "role": "user",
+      "status": "active"
+    }
+  ],
+  "roles": [
+    {
+      "id": "0880",
+      "name": "xxxxx",
+      "permissions": [
+        "Read"
+      ]
+    },
+    {
+      "id": "b3ec",
+      "name": "editer",
+      "permissions": [
+        "Read",
+        "Edit"
+      ]
+    },
+    {
+      "id": "df67",
+      "name": "fffg",
+      "permissions": [
+        "Read",
+        "Write"
+      ]
+    },
+    {
+      "id": "2773",
+      "name": "admin",
+      "permissions": [
+        "Write",
+        "Edit"
+      ]
+    }
+  ]
+}
